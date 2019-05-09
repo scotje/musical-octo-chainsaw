@@ -1,0 +1,5 @@
+/test/
+/Puppetfile.lock
+/Gemfile.lock
+/.librarian/
+/.tmp/
