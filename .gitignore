@@ -3,3 +3,5 @@
 /Gemfile.lock
 /.librarian/
 /.tmp/
+/.bundle/
+/r10k-cache/

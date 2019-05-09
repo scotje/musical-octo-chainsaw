@@ -1,0 +1,5 @@
+---
+cachedir: 'r10k-cache'
+# Configuration options for downloading modules from the Puppet Forge
+forge:
+  baseurl: 'https://d1bkvudlpzs3m8.cloudfront.net'
